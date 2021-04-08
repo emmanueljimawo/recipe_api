@@ -1,5 +1,5 @@
 certifi==2019.3.9
-Django==2.2
+Django==2.2.20
 djangorestframework==3.9.4
 entrypoints==0.3
 flake8==3.7.7
